@@ -22,4 +22,3 @@ SQLAlchemy-Utils
 typing_extensions
 Werkzeug
 zipp
-logger
